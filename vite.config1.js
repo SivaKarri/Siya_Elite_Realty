@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/siya-elite-realty/',
+  base: '/siya_elite_realty/',
 })
